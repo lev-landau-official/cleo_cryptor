@@ -8,7 +8,7 @@ Other CLEO encryptors are broken and useless; use this tool to break popular enc
 
 - **Secure encryption algorithm**. You have stumbled across the best (hands down) CLEO encryptor. Algorithm so strong it does not break.
 
-- **Custom message:** Add your text (up to 6kB), multi-line message supported.
+- **Custom message**. Add your text (up to 6kB), multi-line message supported.
 
 - **Protection against tampering**. What's worse than stolen source code? Correct, it's stolen authorship. Not gonna happen though, modified files refuse to work.
 

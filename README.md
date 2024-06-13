@@ -6,7 +6,7 @@ Other CLEO encryptors are broken and useless; use this tool to break popular enc
 
 ## Features
 
-- **Secure encryption algorithm:** You have stumbled across the best (hands down) CLEO encryptor. Algorithm so strong it does not break.
+- **Secure encryption algorithm:** You have stumbled across the best (hands down) CLEO cryptor. Algorithm so strong it does not break.
 
 - **Custom message:** Add your text (up to 6kB), multi-line message supported.
 

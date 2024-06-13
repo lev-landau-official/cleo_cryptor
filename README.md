@@ -16,7 +16,7 @@ Other CLEO encryptors are broken and useless; use this tool to break popular enc
 
 - **General file encryptor**. You can use this tool to encrypt files other than CLEO scripts, in which case a password is mandatory. Although keep in mind, this tool does not necessarily comply with "safety standards of cryptography," use at your own risk. Huge files are supported.
 
-- **Decryption**. Every other CLEO encryptor is broken and useless, trust me on this. This functionality allows you to break popular encryption algorithms (MogAika, FYP, blackjesus, etc.). Some scripts may not decrypt; show them to me! They will decrypt in the next release.
+- **Decryption**. Every other CLEO encryptor is broken and useless, trust me on this. This functionality allows you to break popular encryption algorithms (MogAika, FYP, blackjesus, etc.). Some scripts may not decrypt; show them to me! They will decrypt on the next release.
 
 ## Usage
 

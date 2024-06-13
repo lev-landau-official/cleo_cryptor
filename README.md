@@ -1,4 +1,4 @@
-# cleo cryptor
+# cleo_cryptor
 
 Forget about n00bs stealing your CLEO scripts, use this tool to encrypt your files.
 
@@ -6,7 +6,7 @@ Other CLEO encryptors are broken and useless; use this tool to break popular enc
 
 ## Features
 
-- **Secure encryption algorithm:** Oh, did I mention this tool is the best (hands down) CLEO encryptor? I did... and I said it again.
+- **Secure encryption algorithm:** You have stumbled across the best (hands down) CLEO encryptor. Algorithm so strong it does not break.
 
 - **Custom message:** Add your text (up to 6kB), multi-line message supported.
 

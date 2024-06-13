@@ -20,7 +20,7 @@ Other CLEO encryptors are broken and useless; use this tool to break popular enc
 
 ## Usage
 
-- Place `decryptor.cleo` in the CLEO folder. This file is mandatory when running encrypted scripts; otherwise expect a crash.  
+- Place `decryptor.cleo` in CLEO folder. This file is mandatory when running encrypted scripts; otherwise expect a crash.  
 - Open `*.bat` files for further usage information.
 
 ##

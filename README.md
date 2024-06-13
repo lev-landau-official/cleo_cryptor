@@ -25,6 +25,6 @@ Other CLEO encryptors are broken and useless; use this tool to break popular enc
 
 ##
 
-Got issues? Text here, will take a look.
+Got issues? Let me know, will take a look.
 
 <sup>Lev_Landau © 2024</sup>

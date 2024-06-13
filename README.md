@@ -12,15 +12,15 @@ Other CLEO encryptors are broken and useless; use this tool to break popular enc
 
 - **Protection against tampering**. What's worse than stolen source code? Correct, it's stolen authorship. Not gonna happen though, modified files refuse to work.
 
-- **Password protection**. You heard it right! It is optional, but you can protect your CLEO scripts with a password. This means you can retrieve the source code of your script using your secret phrase. When a script is encrypted without a password, the source code is not retrievable.
+- **Password protection**. You heard it right! It is optional, but you can protect your CLEO scripts with a password. This means you can retrieve source code of your script using your secret phrase. When script encrypted without a password, source code is not retrievable.
 
-- **General file encryptor**. You can use this tool to encrypt files other than CLEO scripts, in which case a password is mandatory. Although keep in mind, this tool does not necessarily comply with "safety standards of cryptography," use at your own risk. Huge files are supported.
+- **General file encryptor**. Okay, I will say this... you can use this tool to encrypt files other than CLEO scripts, in which case password is mandatory. Although keep in mind, this tool does not necessarily comply with "safety standards of cryptography", use at your own risk. Huge files supported.
 
-- **Decryption**. Every other CLEO encryptor is broken and useless, trust me on this. This functionality allows you to break popular encryption algorithms (MogAika, FYP, blackjesus, etc.). Some scripts may not decrypt; show them to me! They will decrypt on the next release.
+- **Decryption**. Every other CLEO encryptor is broken and useless, trust me on this. This functionality allows you to break popular encryption algorithms (MogAika, FYP, blackjesus etc.). Some scripts may not decrypt, show them to me! Will decrypt on the next release.
 
 ## Usage
 
-- Place `decryptor.cleo` in the CLEO folder. This file is mandatory when running encrypted scripts; otherwise expect a crash.  
+- Place `decryptor.cleo` in the CLEO folder. This file mandatory when running encrypted scripts; otherwise expect a crash.  
 - Open `*.bat` files for further usage information.
 
 ##

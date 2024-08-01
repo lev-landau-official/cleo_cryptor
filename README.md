@@ -18,6 +18,8 @@ Other CLEO encryptors are broken and useless; use this tool to break popular enc
 
 - **Decryption**. Every other CLEO encryptor is broken and useless, trust me on this. This functionality allows you to break popular encryption algorithms (MogAika, FYP, SlonoBoyko etc.). Some scripts may not decrypt, show them to me! Will decrypt on the next release.
 
+- **Deobfuscation**. Some scripts have intentionally scrambled source code and require a little clean-up.
+
 ## Usage
 
 - Place `decryptor.cleo` in CLEO folder. This file is mandatory when running encrypted scripts; otherwise expect a crash.  
